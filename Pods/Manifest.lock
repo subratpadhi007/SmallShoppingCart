@@ -1,0 +1,16 @@
+PODS:
+  - BBBadgeBarButtonItem (1.2)
+
+DEPENDENCIES:
+  - BBBadgeBarButtonItem
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BBBadgeBarButtonItem
+
+SPEC CHECKSUMS:
+  BBBadgeBarButtonItem: c2fbca0bff18e21b70defc9438a8a5048008e7ca
+
+PODFILE CHECKSUM: 625183407a472b402a066c61de490bd74843a203
+
+COCOAPODS: 1.5.3
